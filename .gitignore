@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+*.Zone.Identifier
+*:Zone.Identifier
+*.webp
